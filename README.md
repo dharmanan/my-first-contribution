@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to My First Contribution!
 
 This project is designed to help you make your first open-source contributions and earn the **"Pull Shark" (�)** achievement!
