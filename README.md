@@ -75,6 +75,7 @@ It's time to show it off! Let's create a *new* repository on your own profile to
 1.  **Click the Button Below.** This will take you to a page to create a new "trophy" repo on your account, using a template I made.
 
     👇 **Click to Create Your Trophy Repo** 👇
+
     [![Create Trophy Repo](https://img.shields.io/badge/Step%203-Create%20Your%20Trophy%20Repo-purple)](https://github.com/dharmanan/my-badge-template/generate)
 
 2.  **On the new page:**
