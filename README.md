@@ -54,6 +54,7 @@ This is your second and final task! After this PR is merged, you will have earne
 4.  **In the text area**, write your GitHub profile link
     - Example: `My GitHub profile: https://github.com/john_doe`
     - Replace `john_doe` with your actual GitHub username
+    - Just click green button commit changes   
 
 5.  **Click "Propose new file", then "Create pull request"** - Again, just click the green buttons!
 
