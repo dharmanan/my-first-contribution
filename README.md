@@ -22,6 +22,7 @@ Your first task is to add your name to my `contributors` list. This is **PR 1 of
     - Example: `Hi, I'm John Doe from Canada!`
     - Or: `Hi, I'm Sarah from the United States!`
     - Feel free to add your location, interests, or anything you'd like to share!
+    - Just click green button commit changes    
 
 4.  **Scroll down and click "Propose new file"**, then on the next page click **"Create pull request"**
     - Don't change anything else - just click the green buttons!
