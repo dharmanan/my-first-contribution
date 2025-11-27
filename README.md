@@ -125,13 +125,6 @@ A huge thank you to everyone who has contributed. This list updates automaticall
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/CryptoShinjii">
-                    <img src="https://avatars.githubusercontent.com/u/98266935?v=4" width="64;" alt="CryptoShinjii"/>
-                    <br />
-                    <sub><b>CryptoShinjii</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/MrKhano">
                     <img src="https://avatars.githubusercontent.com/u/160022389?v=4" width="64;" alt="MrKhano"/>
                     <br />
