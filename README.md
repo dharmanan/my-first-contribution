@@ -111,6 +111,20 @@ A huge thank you to everyone who has contributed. This list updates automaticall
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/CryptoShinjii">
+                    <img src="https://avatars.githubusercontent.com/u/98266935?v=4" width="64;" alt="CryptoShinjii"/>
+                    <br />
+                    <sub><b>CryptoShinjii</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MrKhano">
+                    <img src="https://avatars.githubusercontent.com/u/160022389?v=4" width="64;" alt="MrKhano"/>
+                    <br />
+                    <sub><b>MrKhano</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/cauchy48">
                     <img src="https://avatars.githubusercontent.com/u/94215365?v=4" width="64;" alt="cauchy48"/>
                     <br />
@@ -122,13 +136,6 @@ A huge thank you to everyone who has contributed. This list updates automaticall
                     <img src="https://avatars.githubusercontent.com/u/6395994?v=4" width="64;" alt="flowturkiye"/>
                     <br />
                     <sub><b>flowturkiye</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/MrKhano">
-                    <img src="https://avatars.githubusercontent.com/u/160022389?v=4" width="64;" alt="MrKhano"/>
-                    <br />
-                    <sub><b>MrKhano</b></sub>
                 </a>
             </td>
 		</tr>
